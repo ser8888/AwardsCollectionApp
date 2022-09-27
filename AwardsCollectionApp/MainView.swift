@@ -22,11 +22,13 @@ struct MainView: View {
                 }
             }
             
-            Spacer()
+  //          Spacer()
+            
             if awardIsShowing {
+//                HomeWorkView()
                 GradientRectangles()
-                    .frame(width: 250, height: 250)
-                    .transition(.leadingSlide)
+                   .frame(width: 250, height: 250)
+//                   .transition(.leadingSlide)
             }
             Spacer()
         }
@@ -44,6 +46,7 @@ struct MainView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         MainView()
+            .frame(width: 200, height: 200)
     }
 }
 
