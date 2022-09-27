@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F3F350C28E3536000312236 /* HomeWorkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3F350B28E3536000312236 /* HomeWorkView.swift */; };
 		A89D0931267B76D400C1FB66 /* AwardsCollectionAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89D0930267B76D400C1FB66 /* AwardsCollectionAppApp.swift */; };
 		A89D0933267B76D400C1FB66 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89D0932267B76D400C1FB66 /* MainView.swift */; };
 		A89D0935267B76D600C1FB66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A89D0934267B76D600C1FB66 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F3F350B28E3536000312236 /* HomeWorkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWorkView.swift; sourceTree = "<group>"; };
 		A89D092D267B76D400C1FB66 /* AwardsCollectionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AwardsCollectionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89D0930267B76D400C1FB66 /* AwardsCollectionAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardsCollectionAppApp.swift; sourceTree = "<group>"; };
 		A89D0932267B76D400C1FB66 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			children = (
 				A89D0930267B76D400C1FB66 /* AwardsCollectionAppApp.swift */,
 				A89D093F267B777E00C1FB66 /* StarterView.swift */,
+				7F3F350B28E3536000312236 /* HomeWorkView.swift */,
 				A89D0932267B76D400C1FB66 /* MainView.swift */,
 				A8A20B562837907D00C7401B /* CartRacingView.swift */,
 				A89D0941267B77C800C1FB66 /* AwardsView.swift */,
@@ -160,6 +163,7 @@
 				A8E1B481267B7967005E98AA /* CurvesView.swift in Sources */,
 				A89D0942267B77C800C1FB66 /* AwardsView.swift in Sources */,
 				A89D0933267B76D400C1FB66 /* MainView.swift in Sources */,
+				7F3F350C28E3536000312236 /* HomeWorkView.swift in Sources */,
 				A8E1B485267B7979005E98AA /* PathView.swift in Sources */,
 				A89D0931267B76D400C1FB66 /* AwardsCollectionAppApp.swift in Sources */,
 				A89D0940267B777E00C1FB66 /* StarterView.swift in Sources */,
